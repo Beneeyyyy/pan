@@ -1,4 +1,4 @@
-# Dashboard PAN DIY - SPA System
+# Dashboard Partai Demokrat - SPA System
 
 Dashboard HTML murni dengan sistem Single Page Application (SPA) menggunakan vanilla JavaScript.
 
